@@ -6,6 +6,7 @@ import { CgPlayListAdd } from 'react-icons/cg';
 
 
 
+
 type FilmCardProps = {
   currentFilm: Film;
   addToWatchList?: (() => void) | null;
